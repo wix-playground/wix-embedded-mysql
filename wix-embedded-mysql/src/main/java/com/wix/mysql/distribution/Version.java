@@ -153,7 +153,7 @@ public enum Version implements IVersion {
     }
 
     private String path() {
-        return format("MySQL-%s", majorVersion);
+        return format("mysql-%s", majorVersion);
     }
 
     private String toVersionString() {
