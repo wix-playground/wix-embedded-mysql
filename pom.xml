@@ -6,7 +6,7 @@
     <version>4.6.4-SNAPSHOT</version>
     <name>Wix Embedded MySql Modules aggregator</name>
     <description>Wix Embedded MySql Modules aggregator</description>
-    <url>https://github.com/wix/wix-embedded-mysql</url>
+    <url>https://github.com/wix-playground/wix-embedded-mysql</url>
     <packaging>pom</packaging>
 
     <modules>
